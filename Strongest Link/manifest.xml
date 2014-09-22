@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<package version="1.0.2" uuid="strongestlink">
+ <names>
+  <name lang="en_US">Strongest Link</name>
+ </names>
+ <descriptions>
+  <description lang="en_US">Who is the strongest link? Who'll earn all the candies?</description>
+ </descriptions>
+ <supportedLanguages>
+  <language>en_US</language>
+ </supportedLanguages>
+ <descriptionLanguages>
+  <language>en_US</language>
+ </descriptionLanguages>
+ <contents>
+  <behaviorContent path=".">
+   <nature>interactive</nature>
+   <names>
+    <name lang="en_US">Strongest Link</name>
+   </names>
+   <descriptions>
+    <description lang="en_US">Who is the strongest link? Who'll earn all the candies?</description>
+   </descriptions>
+   <tags>
+    <tag lang="en_US">game</tag>
+    <tag lang="en_US">collaborative</tag>
+   </tags>
+   <permissions/>
+  </behaviorContent>
+ </contents>
+</package>
